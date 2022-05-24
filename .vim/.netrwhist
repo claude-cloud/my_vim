@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/mnt/d/Now/李慧芹-Linux-C_Code/进程相关操作/cmake-build-debug'
