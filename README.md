@@ -1,2 +1,2 @@
-# my vim
-# vim 配置
+#my vim
+# 我的vim 配置
